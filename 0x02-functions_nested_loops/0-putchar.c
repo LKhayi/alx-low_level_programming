@@ -1,7 +1,6 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - entry point
- * description:  'program that prints _putchar'
  * Return: 0 always (Success)
  **/
 int main(void)
